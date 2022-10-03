@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('Rectangle 5.png');
+}
+
+
+.header{
+ background-image: url('Rectangle 5.png');
+    
+    
+    color: blanchedalmond;
+    height: 80px;
+    background-size: cover;
+}
+
+a:hover{
+    border-bottom: 1.5px solid white;
+}
+.logo{
+    border-radius: 5px;
+    color: rgb(65, 65, 165);
+    background-color: white;
+    width: 130px;
+    height: 35px;
+    margin-left: 4%;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+    padding-right: 0px;
+    letter-spacing: 2px;
+    word-spacing: 0px;
+    float: left;
+}
+.logo1{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 9px;
+}
+
+.arif1{
+    float: left;
+    list-style-type: none;
+    margin-left: 150px;
+    margin-top: 28px;
+}
+
+.arif1 li{
+    float: left;
+    margin-left: 90px;
+   
+}
+
+.arif1 li a{
+    text-decoration: none;
+    color:white;
+ 
+    padding-top: 20px;
+}
+
+.icon{
+
+    background-color: white;
+    float: left;
+    padding: 15px;
+    padding-top: 0px;
+    margin-left: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 130px;
+    height: 100px; 
+    border: 1px solid rgb(209, 206, 206);
+}
+.image12{
+    width: 90px;
+    height:70px;
+}
+.icon1 a{
+    text-decoration: none;
+    color: rgb(65, 65, 165);
+    text-align: center;
+    padding-left: 40px;
+}
+
+.h12{
+    color: rgb(18, 105, 182);
+    text-align: center;
+    font-size:larger;
+    padding-bottom: 10px;
+   
+}
+.span1{
+
+    width: 120px;
+    height: 30px;
+    border: 1px solid rgb(65, 65, 165);
+    color: white;
+    background-color:rgb(65, 65, 165);
+    font-size: 20px;
+    padding-right: 7px;
+   border-radius: 3px;
+}
+
+
+.text{
+    width: 400px;
+    height: 230px;
+    margin-top: 120px;
+    margin-left: 100px;
+   
+    float: left;
+
+}
+
+.textp{
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    font-size: 50px;
+    font-weight:bold;
+    font-family: Georgia;
+    color: white;
+    
+
+}
+
+.button1{
+    border-radius: 6px;
+    border: 2px solid white;
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    margin-top: 50px;
+    font-family: Times, serif;
+   font-size: x-large;
+    color: rgb(25, 25, 102);
+}
+.Car{
+    float: left;
+   width: 840px;
+   height: 500px;
+}
+
+.Car1{
+    margin-top: 2%;
+    width: 100%;
+   height: 500px;
+    float: left;
+}
+
+.i1{
+
+    float: left;
+    margin-left:  1250px;
+}

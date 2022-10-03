@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+.header{
+ background-image: url('Rectangle 5.png');
+    
+    
+    color: blanchedalmond;
+    height: 80px;
+    background-size: cover;
+}
+
+a:hover{
+    border-bottom: 1.5px solid white;
+}
+.logo{
+    border-radius: 5px;
+    color: rgb(65, 65, 165);
+    background-color: white;
+    width: 130px;
+    height: 35px;
+    margin-left: 4%;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+    padding-right: 0px;
+    letter-spacing: 2px;
+    word-spacing: 0px;
+    float: left;
+}
+.logo1{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 9px;
+}
+
+.arif1{
+    float: left;
+    list-style-type: none;
+    margin-left: 150px;
+    margin-top: 28px;
+}
+
+.arif1 li{
+    float: left;
+    margin-left: 90px;
+   
+}
+
+.arif1 li a{
+    text-decoration: none;
+    color:white;
+ 
+    padding-top: 20px;
+}
+
+.icon{
+
+    background-color: white;
+    float: left;
+    padding: 15px;
+    padding-top: 0px;
+    margin-left: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 130px;
+    height: 100px; 
+    border: 1px solid rgb(209, 206, 206);
+}
+.image12{
+    width: 90px;
+    height:70px;
+}
+.icon1 a{
+    text-decoration: none;
+    color: rgb(65, 65, 165);
+    text-align: center;
+    padding-left: 40px;
+}
+
+.h12{
+    color: rgb(18, 105, 182);
+    text-align: center;
+    font-size:larger;
+    padding-bottom: 10px;
+   
+}
+.span1{
+
+    width: 120px;
+    height: 30px;
+    border: 1px solid rgb(65, 65, 165);
+    color: white;
+    background-color:rgb(65, 65, 165);
+    font-size: 20px;
+    padding-right: 7px;
+   border-radius: 3px;
+}
+
+
+.image1{
+    background-image: url('unsplash_RsjQl8dLnfw.png');
+    width: 100%;
+    height: 180px;
+}
+
+.image1 h1{
+    font-family: Arial;
+    color: white;
+    padding-top: 110px;
+    padding-left: 100px;
+    font-size:  1000;
+}
+
+.first1{
+    margin-top: 90px;
+  
+    width: 20%;
+    margin-left: 140px;
+    height: 330px;
+    float: left;
+}
+
+.first1_h1{
+  
+   font-size: x-large;
+   font-family: Arial, Helvetica, sans-serif;
+   color:  rgb(27, 44, 102);
+  padding-bottom: 50px;
+  
+}
+
+.first1_h3{
+    font-size: medium;
+  color: rgb(27, 26, 26);
+
+}
+
+.first2{
+    margin-top: 90px;
+    float: left;
+    width: 45%;
+    height:330px ;
+    margin-left: 130px;
+    
+}
+
+.phragps{
+    
+    margin: 10px;
+    float: left;
+    border-radius: 5px;
+    border-bottom: 1px solid rgb(206, 202, 202);
+    border-right: 1px solid rgb(206, 202, 202);
+    border-left: 1px solid rgb(206, 202, 202);
+    padding: 25px;
+}
+
+
+
+.car{
+    margin-top: 90px;
+    width: 47%;
+    height: 400px;
+    float: left;
+}
+
+.inpormation{
+    width: 400px;
+    height: 350px;
+    margin-top: 90px;
+    float: left;
+    margin-right: 90px;
+    margin-left: 70px;
+    margin-bottom: 50px;
+}
+
+.inpormation h1{
+    padding-bottom: 40px;
+    letter-spacing: 0ch;
+    word-spacing: 0ch;
+    color: rgb(27, 44, 102);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inpormation p{
+    font-size:large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.numbers{
+    margin-top: 50px;
+    width: 100%;
+    height: 70px;
+    float: left;
+
+    margin-bottom: 60px;
+}
+
+.num{
+    margin-left: 80px;
+    float: left;
+}
+
+.num1{
+    margin-left: 500px;
+    float: left;
+}
+
+.footers{
+    margin-bottom: 0%;
+    margin-top: 1100px;
+    width: 100%;
+    height: 400px;
+    background-color: rgb(27, 44, 102);
+}
+
+.logo123{
+    width: 70%;
+     height: 20px;
+     margin-bottom: 30px;
+     
+
+}
+
+.logo123{
+    padding-top: 30px;
+    padding-left:80px;
+    width: 210px;
+    height: 80px;
+}
+
+.plll{
+    float: left;
+    margin-top: 30px;
+   
+    width: 15%;
+    height: 100px;
+    
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 90px;
+}
+
+.pjll{
+    float: left;
+    margin-top: 30px;
+   
+    width: 15%;
+    height: 100px;
+ 
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pkll{
+    margin-top: 30px;
+    float: left;
+    width: 20%;
+    height: 200px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.textbox123{
+    margin-top: 20px;
+
+    width: 400px;
+    height: 150px;
+    float: right;
+    margin-right: 120px;
+
+}
+
+.textbox123 h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size:xx-large ;
+    margin-bottom: 15px;
+    
+}
+
+.textbox123 .text113{
+    border-radius: 5px;
+    width: 400px;
+    height: 30px;
+} 
+
+
+
